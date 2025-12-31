@@ -1,0 +1,6 @@
+{ "account": 123, "amount": 500, "type": "D" }
+{ "account": 123, "amount": 300, "type": "W" }
+{ "account": 12345, "amount": 5000, "type": "D" }
+{ "account": 12345, "amount": 598767, "type": "D" }
+{ "account": 12345, "amount": 65, "type": "W" }
+{ "account": 12345, "amount": 34, "type": "W" }
